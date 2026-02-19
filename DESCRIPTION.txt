@@ -1,0 +1,9 @@
+Package: euclidist
+Type: Package
+Title: Euclidian distance
+Version: 0.9 (poi magari quando metto su CRAN scrivo 1.0, qui è ancora developer version)
+Author: Giorgio Vicari
+Description: calculates the euclidian distance between two points
+Depends: R (>= 3.4.0)
+License: GPL-2
+Maintainer: Giorgio Vicari <v.giorgio99@gmail.com>
